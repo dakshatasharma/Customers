@@ -1,0 +1,122 @@
+[
+  {
+    "CustomerID" : "CUST-100004",
+    "FirstName" : "John",
+    "LastName" : "Williams",
+    "Email" : "john.williams4@example.com",
+    "Phone" : "888-250-2798",
+    "Address" : "7679 Oak St",
+    "City" : "New York",
+    "State" : "NY",
+    "ZipCode" : "10001",
+    "Country" : "USA"
+  },
+  {
+    "CustomerID" : "CUST-100025",
+    "FirstName" : "David",
+    "LastName" : "Smith",
+    "Email" : "david.smith25@example.com",
+    "Phone" : "520-325-2096",
+    "Address" : "6574 Oak St",
+    "City" : "Los Angeles",
+    "State" : "CA",
+    "ZipCode" : "90001",
+    "Country" : "USA"
+  },
+  {
+    "CustomerID" : "CUST-100010",
+    "FirstName" : "Mary",
+    "LastName" : "Brown",
+    "Email" : "mary.brown10@example.com",
+    "Phone" : "803-463-7611",
+    "Address" : "2769 Washington Blvd",
+    "City" : "Los Angeles",
+    "State" : "CA",
+    "ZipCode" : "90001",
+    "Country" : "USA"
+  },
+  {
+    "CustomerID" : "CUST-100026",
+    "FirstName" : "Mary",
+    "LastName" : "Smith",
+    "Email" : "mary.smith26@example.com",
+    "Phone" : "356-561-8390",
+    "Address" : "9933 Washington Blvd",
+    "City" : "Austin",
+    "State" : "TX",
+    "ZipCode" : "73301",
+    "Country" : "USA"
+  },
+  {
+    "CustomerID" : "CUST-100011",
+    "FirstName" : "Michael",
+    "LastName" : "Miller",
+    "Email" : "michael.miller11@example.com",
+    "Phone" : "518-950-3227",
+    "Address" : "7724 Lakeview Dr",
+    "City" : "Austin",
+    "State" : "TX",
+    "ZipCode" : "73301",
+    "Country" : "USA"
+  },
+  {
+    "CustomerID" : "CUST-100007",
+    "FirstName" : "James",
+    "LastName" : "Miller",
+    "Email" : "james.miller7@example.com",
+    "Phone" : "614-576-2266",
+    "Address" : "8924 Washington Blvd",
+    "City" : "Los Angeles",
+    "State" : "CA",
+    "ZipCode" : "90001",
+    "Country" : "USA"
+  },
+  {
+    "CustomerID" : "CUST-100013",
+    "FirstName" : "Patricia",
+    "LastName" : "Johnson",
+    "Email" : "patricia.johnson13@example.com",
+    "Phone" : "705-670-7710",
+    "Address" : "6905 Lakeview Dr",
+    "City" : "Phoenix",
+    "State" : "AZ",
+    "ZipCode" : "85001",
+    "Country" : "USA"
+  },
+  {
+    "CustomerID" : "CUST-100003",
+    "FirstName" : "David",
+    "LastName" : "Williams",
+    "Email" : "david.williams3@example.com",
+    "Phone" : "618-236-8823",
+    "Address" : "6789 Parkway",
+    "City" : "New York",
+    "State" : "NY",
+    "ZipCode" : "10001",
+    "Country" : "USA"
+  },
+  {
+    "CustomerID" : "CUST-100024",
+    "FirstName" : "Robert",
+    "LastName" : "Garcia",
+    "Email" : "robert.garcia24@example.com",
+    "Phone" : "954-893-3901",
+    "Address" : "4501 Pine Rd",
+    "City" : "Houston",
+    "State" : "TX",
+    "ZipCode" : "77001",
+    "Country" : "USA"
+  },
+  {
+    "CustomerID" : "CUST-100018",
+    "FirstName" : "James",
+    "LastName" : "Brown",
+    "Email" : "james.brown18@example.com",
+    "Phone" : "256-931-7135",
+    "Address" : "4088 Lakeview Dr",
+    "City" : "Phoenix",
+    "State" : "AZ",
+    "ZipCode" : "85001",
+    "Country" : "USA"
+  }
+]
